@@ -4,22 +4,16 @@
       "toppings": [
         "sausage",
         "pepperoni"
-      ]
+      ],
+      "rank": 2,
+      "orders": 2 
     },
     {
       "toppings": [
         "mozzarella cheese"
-      ]
-    },
-    {
-      "toppings": [
-        "mozzarella cheese"
-      ]
-    },
-    {
-      "toppings": [
-        "mozzarella cheese"
-      ]
+      ],
+      "rank": 1,
+      "orders": 3 
     },
     {
       "toppings": [
@@ -28,7 +22,9 @@
         "beef",
         "onions",
         "pineapple"
-      ]
+      ],
+      "rank": 3,
+      "orders": 1 
     }
   ]
 }

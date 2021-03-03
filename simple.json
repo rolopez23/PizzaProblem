@@ -1,30 +1,34 @@
-[{
-  "toppings": [
-    "sausage",
-    "pepperoni"
-  ]
-},
 {
-  "toppings": [
-    "mozzarella cheese"
+  "pizzas": [
+    {
+      "toppings": [
+        "sausage",
+        "pepperoni"
+      ]
+    },
+    {
+      "toppings": [
+        "mozzarella cheese"
+      ]
+    },
+    {
+      "toppings": [
+        "mozzarella cheese"
+      ]
+    },
+    {
+      "toppings": [
+        "mozzarella cheese"
+      ]
+    },
+    {
+      "toppings": [
+        "mozzarella cheese",
+        "bacon",
+        "beef",
+        "onions",
+        "pineapple"
+      ]
+    }
   ]
-},
-{
-  "toppings": [
-    "mozzarella cheese"
-  ]
-},
-{
-  "toppings": [
-    "mozzarella cheese"
-  ]
-},
-{
-  "toppings": [
-    "mozzarella cheese",
-    "bacon",
-    "beef",
-    "onions",
-    "pineapple"
-  ]
-}]
+}

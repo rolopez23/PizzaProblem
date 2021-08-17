@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "json-server pizzas.json",
-    "simple": "json-server simple.json",
-    "build": "webpack -w"
+    "server": "json-server server/pizzas.json",
+    "simple": "json-server simple/simple.json",
+    "build": "webpack -w",
+    "start": "json-server server/pizzas.json & webpack -w"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rob Lopez",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",

@@ -10,7 +10,3 @@ Start the server with `npm run server`
 Compile react with `npm run build`
 Run both with `npm start`
 
-
-# Pizza Simplified
-Start the simplified server with `npm run simple`. Set up an app that lists all combos with rank and number of times and allows filtering of orders based on including a topping and ordered more than a certain number of times. 
-Refer to `simpleMokup.html` for an example. 
